@@ -1,3 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} github.io
-RewriteRule (.*) https://google.com [R=301,L]
+RewriteCond %{HTTP_HOST} adsworthheynoski.github.io/
+RewriteRule (.*) https://yandex.com [R=301,L]
