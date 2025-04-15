@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} bikegreenberlin.live
+RewriteRule (.*) https://gameshannover.com [R=301,L]
