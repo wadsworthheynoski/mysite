@@ -1,3 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} github.com/wadsworthheynoski/mysite.git
+RewriteCond %{HTTP_HOST} github.com
 RewriteRule (.*) google.com [R=301,L]
